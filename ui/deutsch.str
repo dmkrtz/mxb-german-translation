@@ -17,7 +17,7 @@ Sonstiges
 profiles
 Profile
 Bestlaps
-Beste Runden
+Rekorde
 Viewreplays
 Wiederholungen
 yes
@@ -187,7 +187,7 @@ Spielerlimit:
 track
 Strecke:
 onboardview
-Onboard-Ansicht
+Egoperspektive
 mouselook
 Maus-Tracking
 resolution
@@ -271,7 +271,7 @@ Hardcore-Modus
 settings_race
 Renneinstellungen
 ui_volume
-UI:
+Benutzeroberfläche:
 track_length
 Streckenlänge:
 track_altitude
@@ -329,7 +329,7 @@ Geschwindigkeit
 racetime_stand
 Rennzeit
 aero_volume
-Wind-Lautstärke:
+Wind:
 rider_fb_lean
 Fahrer V/H neigen
 autoriderfblean
@@ -371,15 +371,13 @@ Intro überspringen
 bike_profile
 Motorrad:
 paint_profile
-Dekor:
+Design:
 delete_profile
 Profil entfernen?
 track_bestlaps
 Strecke
 delete_replay
 Wiederholung löschen?
-cc_wrongkey
-Ungültiger Lizenzschlüssel
 garage_title
 Garage
 fuel_garage
@@ -412,8 +410,8 @@ fronttyre_garage
 Vorne:
 reartyre_garage
 Hinten:
-bump_garage
-Geschwindigkeit:
+compression_garage
+Compression:
 rebound_garage
 Zugstufe:
 finalratio_garage
@@ -450,8 +448,6 @@ serverbrowser_title
 Serverliste
 continue_ontrack
 Weiter
-demo
-Demo
 tilt
 Kippung:
 w_server
@@ -570,10 +566,6 @@ cc_race1
 Rennen 1
 cc_race2
 Rennen 2
-cc_licenseinuse
-Lizenz bereits in Verwendung
-cc_licensebanned
-Lizenz gesperrt
 CC_wrongcategory
 Falsche Kategorie
 CC_racestarted
@@ -639,7 +631,7 @@ hat den Server verlassen.
 3d_grass
 3D-Gras
 direct_lean
-Direkte Neigung (Direct Lean):
+Direkte Neigung:
 rating_server
 R
 cc_laps
@@ -676,8 +668,6 @@ cc_director
 Direktor
 cc_timepenalty
 Zeitstrafen
-license_key
-Lizenzschlüssel:
 angrygesture
 Wütend
 GG_bikeselect
@@ -800,14 +790,10 @@ TT_linearity
 100 bedeutet lineare und direkte Steuerung./rWeniger bedeutet einen genaueren ersten Teil der Eingabe, aber eine Verschlechterung des zweiten Teils./rNützlich für digitale Eingaben und Gamepads.
 TT_deadzone
 Die Tote Zone filtert ungewollte Eingaben im ersten Teil./rNützlich für Analoge Eingaben.
-nickname
-Spielername:
 uk_units
 UK
 nickname_title
 Spielername
-cc_wrongnickname
-Ungültiger Spielername
 reverse_ff
 Invertieren
 guid
@@ -886,6 +872,8 @@ rear_mastercylinder
 Bremszylinder hinten:
 rear_disc
 Bremsscheibe hinten:
+riding_style
+Fahrstil:
 input3_tab
 Eingabe 3
 ReplayMoveLeft
@@ -976,8 +964,6 @@ race1_length
 Rennen 1 Dauer:
 help_track
 Hilfe:
-login
-Login
 password_title
 Passwort
 server
@@ -985,9 +971,9 @@ Server:
 laps_race
 Runden
 looktoapex
-Kurven-Scheitelpunkt
+Scheitelpunkt:
 leanheading
-Kopf Neigung
+Kopf Neigung:
 photo
 Fotomodus
 ideal_lap_time
@@ -1095,11 +1081,11 @@ Helmkamera:
 combined_brakes
 Kombinierte Bremsen
 rider_tracking
-Verfolgung der Fahrerneigung:
-slowbump_garage
-Langsam:
-fastbump_garage
-Schnell:
+Neigungsverfolgung:
+slowcompression_garage
+Low Geschwindigkeit Compression:
+fastcompression_garage
+High Geschwindigkeit Compression:
 cc_click
 Klick
 cc_clicks
@@ -1264,6 +1250,8 @@ CC_SyncCachingTempBike
 Temp. Motorrad
 CC_SyncCachingRider
 Fahrer
+CC_SyncCachingAnimation
+Caching Fahren Stil:
 CC_SyncCachingBoots
 Stiefel
 CC_SyncCachingHelmet
@@ -1321,7 +1309,7 @@ Ping zu hoch
 track_screens
 Strecken-Bildschirme
 externalview
-Externe Ansicht
+Externe Perspektive
 dynamic_view
 Dynamisch
 remotebikes_volume
@@ -1366,3 +1354,13 @@ ui_enter
 UI Enter
 kick
 Kick
+CC_bancheat
+Cheating
+common_setup
+Common
+polls_disabled
+Polls Disabled
+chat_disabled
+Chat Disabled
+cc_dropped
+Dropped
