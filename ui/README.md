@@ -3,7 +3,7 @@
 | Testing | Einzelspieler |
 | Single_race | Mehrspieler |
 | Exit | Beenden |
-| Back | ZurÃ¼ck |
+| Back | Zurück |
 | settings | Einstellungen |
 | gfx_tab | Grafik |
 | input_tab | Eingabe |
@@ -17,9 +17,9 @@
 | track_info | Strecken Info |
 | Done | Fertig |
 | exit_confirm | Beenden? |
-| options_confirm | Ã„nderungen verwerfen? |
+| options_confirm | Änderungen verwerfen? |
 | Forcefeedback | Force Feedback |
-| volume_text | GesamtlautstÃ¤rke: |
+| volume_text | Gesamtlautstärke: |
 | Lean | Neigen |
 | Throttle | Beschleunigen |
 | Brake | Bremsen |
@@ -50,11 +50,11 @@
 | cc_fullscreen | Vollbild |
 | cc_borderless | Randloses Fenster |
 | cc_windowed | Fenstermodus |
-| close | SchlieÃŸen |
-| cc_timeout | ZeitÃ¼berschreitung |
+| close | Schließen |
+| cc_timeout | Zeitüberschreitung |
 | cc_wrongpassword | Falsches Passwort |
 | cc_serverfull | Server voll |
-| sightinglap | AufwÃ¤rmrunde |
+| sightinglap | Aufwärmrunde |
 | new | Neu |
 | chat | Chat |
 | changeview | Kamera wechseln |
@@ -63,23 +63,23 @@
 | ok | Ok |
 | practicetext | Training Dauer: |
 | qualifytext | Qualifying Dauer: |
-| warmuptext | AufwÃ¤rm Dauer: |
-| racetext | RennlÃ¤nge: |
+| warmuptext | Aufwärm Dauer: |
+| racetext | Rennlänge: |
 | sessiontext | Name: |
 | passwordtext | Passwort: |
 | brakehelp | Bremshilfe |
 | tractionhelp | Traktionshilfe |
 | autoshift | Automatisches Schalten |
-| ffstrength | StÃ¤rke: |
+| ffstrength | Stärke: |
 | author | Author: |
 | realisticweather | Realistisches Wetter: |
 | realistic_weather | Realistisch |
 | temperature | Temperatur: |
 | wind_direction | Windrichtung: |
-| wind_speed | WindstÃ¤rke: |
+| wind_speed | Windstärke: |
 | order_name | Dateiname |
 | order_track | Strecke |
-| order_length | LÃ¤nge |
+| order_length | Länge |
 | order_date | Datum |
 | chat_button | Chat |
 | autochat | Autochat |
@@ -96,7 +96,7 @@
 | track | Strecke: |
 | onboardview | Onboard-Ansicht |
 | mouselook | Maus-Tracking |
-| resolution | AuflÃ¶sung: |
+| resolution | Auflösung: |
 | fov | Sichtfeld: |
 | dynamicshadows | Dynamische Schatten |
 | reflections | Reflexionen |
@@ -111,10 +111,10 @@
 | filtering | Filterung: |
 | lighting | Beleuchtung |
 | refreshrate | Aktualisierungsrate: |
-| size_texture | GrÃ¶ÃŸe: |
+| size_texture | Größe: |
 | RearBrake | Hinterradbremse |
 | heading | Umschauen |
-| lookback | ZurÃ¼ckschauen |
+| lookback | Zurückschauen |
 | bpp | Bits: |
 | models_detail | Modell-Detail: |
 | controls | Steuerung |
@@ -123,22 +123,22 @@
 | simulation | Simulation |
 | ridingaids | Fahrhilfen |
 | weather | Wetter |
-| undo | RÃ¼ckgÃ¤ngig |
-| setup_overwrite | Setup Ã¼berschreiben? |
+| undo | Rückgängig |
+| setup_overwrite | Setup überschreiben? |
 | setup_defaultsave | Standard speichern? |
-| setup_save | Ã„nderungen speichern? |
+| setup_save | Änderungen speichern? |
 | setup_delete | Setup entfernen? |
 | continue | Weiter |
 | Audio | Audio |
 | detaillevels | Detail Level |
-| returntopit | ZurÃ¼ck ins Pit |
+| returntopit | Zurück ins Pit |
 | quickrace | Schnelles Rennen |
 | raceweekend | Multiplayer |
 | hardcoretext | Hardcore-Modus |
 | settings_race | Renneinstellungen |
 | ui_volume | UI: |
-| track_length | StreckenlÃ¤nge: |
-| track_altitude | HÃ¶henunterschied: |
+| track_length | Streckenlänge: |
+| track_altitude | Höhenunterschied: |
 | tyres | Reifen |
 | advanced_input | Erweiterte Eingabe |
 | Rider | Fahrer: |
@@ -146,9 +146,9 @@
 | position | Position: |
 | last_lap | Letzte Runde: |
 | best_lap | Beste Runde: |
-| reset | ZurÃ¼cksetzen |
-| antialias | KantenglÃ¤ttung: |
-| Screenratio | SeitenverhÃ¤ltnis: |
+| reset | Zurücksetzen |
+| antialias | Kantenglättung: |
+| Screenratio | Seitenverhältnis: |
 | dryqualify | Trockenes Qualifying: |
 | dry_race | Trockenes Rennen: |
 | wetsetup | Nasses Qualifying: |
@@ -161,21 +161,21 @@
 | name_stand | Name |
 | bike_stand | Motorrad |
 | time_stand | Zeit |
-| lap_stand | Runde |
+| lap_stand | Rundenstand |
 | gap_stand | Abstand |
 | speed_stand | Geschwindigkeit |
 | racetime_stand | Rennzeit |
-| aero_volume | Wind-LautstÃ¤rke: |
+| aero_volume | Wind-Lautstärke: |
 | rider_fb_lean | Fahrer V/H neigen |
 | autoriderfblean | Automatisches Fahrer V/H neigen |
 | raisearm | Arm heben |
-| current_setup | AusgewÃ¤hlt: |
+| current_setup | Ausgewählt: |
 | wetrace_setup | Nasses Rennen: |
 | name_server | Name |
 | d_server | D |
 | p_Server | P |
 | track_server | Strecke |
-| length_server | LÃ¤nge |
+| length_server | Länge |
 | h_server | H |
 | status_server | Status |
 | ping_server | Ping |
@@ -183,17 +183,17 @@
 | competitors | Spieler |
 | lowspeed | Schieben |
 | testing_exit | Einzelspieler beenden? |
-| userinterface | BenutzeroberflÃ¤che |
-| skipintro | Intro Ã¼berspringen |
+| userinterface | Benutzeroberfläche |
+| skipintro | Intro überspringen |
 | bike_profile | Motorrad: |
 | paint_profile | Dekor: |
 | delete_profile | Profil entfernen? |
 | track_bestlaps | Strecke |
-| delete_replay | Wiederholung lÃ¶schen? |
-| cc_wrongkey | UngÃ¼ltiger LizenzschlÃ¼ssel |
+| delete_replay | Wiederholung löschen? |
+| cc_wrongkey | Ungültiger Lizenzschlüssel |
 | garage_title | Garage |
 | fuel_garage | Sprit |
-| keep_resolution | AuflÃ¶sung beibehalten? |
+| keep_resolution | Auflösung beibehalten? |
 | exit_race | Server verlassen? |
 | Laptime_bestlaps | Rundenzeit |
 | date_bestlaps | Datum |
@@ -209,8 +209,8 @@
 | reartyre_garage | Hinten: |
 | bump_garage | Geschwindigkeit: |
 | rebound_garage | Zugstufe: |
-| finalratio_garage | Ãœbersetzung |
-| gears_garage | GÃ¤nge |
+| finalratio_garage | Übersetzung |
+| gears_garage | Gänge |
 | frontspr_garage | Ritzel: |
 | rearspr_garage | Kettenrad: |
 | testingsetup_title | Einzelspieler Einstellungen |
@@ -219,17 +219,17 @@
 | hostsetup_title | Servereinstellungen |
 | forcecockpit_info | Cockpit erzwingen: |
 | aids_info | Fahrhilfen: |
-| replay_overwrite | Wiederholung Ã¼berschreiben? |
-| export_overwrite | Export Ã¼berschreiben? |
+| replay_overwrite | Wiederholung überschreiben? |
+| export_overwrite | Export überschreiben? |
 | deadzone | Tote Zone: |
-| linearity | LinearitÃ¤t: |
-| smooth | GlÃ¤ttung |
+| linearity | Linearität: |
+| smooth | Glättung |
 | serverbrowser_title | Serverliste |
 | continue_ontrack | Weiter |
 | demo | Demo |
 | tilt | Kippung: |
 | w_server | W |
-| smooth_press | DrÃ¼cken: |
+| smooth_press | Drücken: |
 | smooth_release | Loslassen: |
 | date3 | YYYY/MM/DD |
 | pitch | Neigung: |
@@ -238,7 +238,7 @@
 | brakes_garage | Bremsen |
 | geom_garage | Geometrie |
 | rakeangle_garage | Gabelwinkel: |
-| swingarm_garage | SchwingenlÃ¤nge: |
+| swingarm_garage | Schwingenlänge: |
 | bike_selection | Garage |
 | category | Kategorie: |
 | category_server | Kat |
@@ -258,9 +258,9 @@
 | bandwidth | Bandbreite: |
 | profile | Profil |
 | share_setup | Setup teilen |
-| GG_Profiles | WÃ¤hle die Sprache und bearbeite das Standardprofil, um einen Namen festzulegen. |
+| GG_Profiles | Wähle die Sprache und bearbeite das Standardprofil, um einen Namen festzulegen. |
 | GG_Settings | Passe die Einstellungen an, um sie an die Hardware anzupassen. |
-| GG_calibration | Alle PeripheriegerÃ¤te mÃ¼ssen kalibriert werden, bevor es mÃ¶glich ist, Achsen den Steuerelementen zuzuweisen. |
+| GG_calibration | Alle Peripheriegeräte müssen kalibriert werden, bevor es möglich ist, Achsen den Steuerelementen zuzuweisen. |
 | leanleft | Links neigen |
 | leanright | Rechts neigen |
 | lookleft | Links schauen |
@@ -283,7 +283,7 @@
 | cc_waiting | Warten |
 | cc_prequalify | Vorqualifikation |
 | cc_qualify | Qualifikation |
-| cc_warmup | AufwÃ¤rmen |
+| cc_warmup | Aufwärmen |
 | cc_race1 | Rennen 1 |
 | cc_race2 | Rennen 2 |
 | cc_licenseinuse | Lizenz bereits in Verwendung |
@@ -292,24 +292,24 @@
 | CC_racestarted | Rennen bereits begonnen |
 | CC_pitlanefull | Pits voll |
 | cc_startinggrid | Startgatter |
-| cc_entries | EintrÃ¤ge |
+| cc_entries | Einträge |
 | cc_analysis | Analyse |
 | cc_fastestlap | Schnellste Runde |
 | cc_practice | Training |
 | cc_classification | Klassifizierung |
 | cc_penalties | Strafen |
-| offence_stand | VerstoÃŸ |
+| offence_stand | Verstoß |
 | penalty_stand | Strafe |
 | laps_stand | Runden |
 | cc_clear | Klar |
-| cc_cloudy | BewÃ¶lkt |
+| cc_cloudy | Bewölkt |
 | cc_Rainy | Regnerisch |
 | cc_north | Nord |
 | cc_northeast | Nordost |
 | cc_east | Ost |
-| cc_southeast | SÃ¼dost |
-| cc_south | SÃ¼d |
-| cc_southwest | SÃ¼dwest |
+| cc_southeast | Südost |
+| cc_south | Süd |
+| cc_southwest | Südwest |
 | cc_west | West |
 | cc_northwest | Nordwest |
 | cc_minute | Min |
@@ -326,22 +326,22 @@
 | cc_unabletoidentifyuser | Benutzer kann nicht identifiziert werden |
 | cc_bilinear | Bilinear |
 | cc_trilinear | Trilinear |
-| CC_SightingLap | AufwÃ¤rmrunde |
+| CC_SightingLap | Aufwärmrunde |
 | cc_prestart | Pre-Start |
 | cc_raceover | Rennen vorbei |
 | cc_startsequence | Startsequenz |
-| cc_inprogress | LÃ¤uft |
+| cc_inprogress | Läuft |
 | cc_complete | Beendet |
-| cc_cutting | AbkÃ¼rzen |
-| cc_jumpstart | FrÃ¼hstart |
+| cc_cutting | Abkürzen |
+| cc_jumpstart | Frühstart |
 | cc_retired | Aufgegeben |
 | cc_serverdisco | Server getrennt |
 | cc_disqualified | Disqualifiziert |
 | cc_director | Direktor |
 | cc_timepenalty | Zeitstrafen |
-| license_key | LizenzschlÃ¼ssel: |
-| angrygesture | WÃ¼tend |
-| GG_bikeselect | Aktuelles Motorrad und Skins Ã¤ndern |
+| license_key | Lizenzschlüssel: |
+| angrygesture | Wütend |
+| GG_bikeselect | Aktuelles Motorrad und Skins ändern |
 | GG_viewer | Linke Maustaste: rotieren/rRechte Maustaste: schwenken/rL+R Maustasten: nah / fern/rLeertaste: UI ein-/ausblenden |
 | GG_world | Online-Mehrspieler |
 | cc_lap | Runde |
@@ -368,58 +368,58 @@
 | cc_wet | Nass |
 | autoclutch | Automatische Kupplung |
 | autotyreschange | Automatischer Reifenwechsel |
-| limitedtyresets | Begrenzte ReifensÃ¤tze |
-| tyre_sets | ReifensÃ¤tze: |
+| limitedtyresets | Begrenzte Reifensätze |
+| tyre_sets | Reifensätze: |
 | mapping_garage | Mapping: |
 | engine_garage | Motor |
 | leanriderleft | Fahrer nach links neigen |
 | leanriderright | Fahrer nach rechts neigen |
-| lowspeedback | VorwÃ¤rts schieben |
-| lowspeedforw | RÃ¼ckwÃ¤rts schieben |
+| lowspeedback | Vorwärts schieben |
+| lowspeedforw | Rückwärts schieben |
 | votehelp | F2: Ja / F4: Nein |
 | gearbox | Getriebe |
 | pressure_tires | Druck |
 | autoriderlrlean | Automatisches Fahrer L/R neigen |
 | help_replay | ? |
-| GG_replayhelp | Leerzeichen: UI ein-/ausblenden/rTab: Klassifizierung ein-/ausblenden/rLinks Strg + Tab: Telemetrie ein-/ausblenden/rNumpad /: Namen ausblenden/anzeigen/rRollen + Drehen nach links, rechts: Orbit rollen / Freie Kamera/rDouble Roll: Orbit zurÃ¼cksetzen / Freie Kamerarolle/rDezimal: Wechsel zwischen freien Kameramodi/rNumpad 5: Start/rNumpad 0: Pause/rNumpad 7: ZurÃ¼ckspulen zum Anfang/rNumpad 1: Schneller Vorlauf bis zum Ende/rNumpad 9: ZurÃ¼ckspulen/rNumpad 3: Schneller Vorlauf/rNumpad 4: Einen Frame zurÃ¼ck/rNumpad 6: Einen Frame vor/rNumpad 8: Zeitlupe zurÃ¼ckspulen/rNumpad 2: Zeitlupe/rRechts Alt + Numpad Minus: Vorherige Kamera/rRechts Alt + Numpad Plus: NÃ¤chste Kamera/rRechts Alt + Numpad 1 bis Numpad 0: Kamera direkt von 1 bis 10 auswÃ¤hlen/rRechts Umschalttaste + Numpad Minus: Vorheriger Fahrer auf der Strecke/rRechts Umschalttaste + Numpad Plus: NÃ¤chster Fahrer auf der Strecke/rRechts Umschalttaste + Numpad 1 bis Numpad 0: Fahrer direkt von 1 bis 10 auswÃ¤hlen/r1 bis 4, um den Kamera-/Fahrerbereich auf 11â€“50 umzustellen/r0, um zu 1 - 10 zurÃ¼ckzukehren |
+| GG_replayhelp | Leerzeichen: UI ein-/ausblenden/rTab: Klassifizierung ein-/ausblenden/rLinks Strg + Tab: Telemetrie ein-/ausblenden/rNumpad /: Namen ausblenden/anzeigen/rRollen + Drehen nach links, rechts: Orbit rollen / Freie Kamera/rDouble Roll: Orbit zurücksetzen / Freie Kamerarolle/rDezimal: Wechsel zwischen freien Kameramodi/rNumpad 5: Start/rNumpad 0: Pause/rNumpad 7: Zurückspulen zum Anfang/rNumpad 1: Schneller Vorlauf bis zum Ende/rNumpad 9: Zurückspulen/rNumpad 3: Schneller Vorlauf/rNumpad 4: Einen Frame zurück/rNumpad 6: Einen Frame vor/rNumpad 8: Zeitlupe zurückspulen/rNumpad 2: Zeitlupe/rRechts Alt + Numpad Minus: Vorherige Kamera/rRechts Alt + Numpad Plus: Nächste Kamera/rRechts Alt + Numpad 1 bis Numpad 0: Kamera direkt von 1 bis 10 auswählen/rRechts Umschalttaste + Numpad Minus: Vorheriger Fahrer auf der Strecke/rRechts Umschalttaste + Numpad Plus: Nächster Fahrer auf der Strecke/rRechts Umschalttaste + Numpad 1 bis Numpad 0: Fahrer direkt von 1 bis 10 auswählen/r1 bis 4, um den Kamera-/Fahrerbereich auf 11–50 umzustellen/r0, um zu 1 - 10 zurückzukehren |
 | viewer | Fotomodus |
 | GG_lean | Klicke diese Spalte um Tasten zuzuordnen |
 | TT_cutstart | Schnittbeginn einstellen/entfernen |
 | TT_cutend | Schnittende einstellen/entfernen |
 | TT_live | Live-Feed |
-| TT_rewindstart | ZurÃ¼ckspulen zum Anfang |
+| TT_rewindstart | Zurückspulen zum Anfang |
 | TT_ffend | Schneller Vorlauf bis zum Ende |
-| TT_rewind | ZurÃ¼ckspulen. Jedes weitere DrÃ¼cken erhÃ¶ht die Geschwindigkeit |
-| TT_rewindslow | RÃ¼cklauf in Zeitlupe. Jedes weitere DrÃ¼cken verringert die Geschwindigkeit |
-| TT_rewindframe | Einen Frame zurÃ¼ck |
+| TT_rewind | Zurückspulen. Jedes weitere Drücken erhöht die Geschwindigkeit |
+| TT_rewindslow | Rücklauf in Zeitlupe. Jedes weitere Drücken verringert die Geschwindigkeit |
+| TT_rewindframe | Einen Frame zurück |
 | TT_playpause | Start / Pause |
 | TT_advanceframe | Einen Frame vor |
-| TT_slowmotion | Zeitlupe. Jedes weitere DrÃ¼cken verringert die Geschwindigkeit |
-| TT_fastforward | Schneller Vorlauf. Jedes weitere DrÃ¼cken erhÃ¶ht die Geschwindigkeit |
-| TT_savereplay | Wiederholung speichern. Ãœber die SchaltflÃ¤chen "Schnittbeginn" und "Schnittende" kann der Bereich eingeschrÃ¤nkt werden |
-| TT_browser | D = Dedizierter Server/rP = PasswortgeschÃ¼tzt/rSpieler = Fahrer/rKat = Kategorie/rH = Hardcore-Modus. A: keine Fahrhilfen; C: Cockpit erzwingen; T: begrenzte ReifensÃ¤tze; +: alles/rW = Wetter. Nichts: realistisch; S: sonnig; C: wolkig; R: regnerisch/rR = Bewertung |
-| TT_smooth | GlÃ¤ttet die Eingabe und fÃ¼gt eine VerzÃ¶gerung hinzu.NÃ¼tzlich fÃ¼r digitale EingÃ¤nge und fÃ¼r Gamepads. |
-| TT_linearity | 100 bedeutet lineare und direkte Steuerung./rWeniger bedeutet einen genaueren ersten Teil der Eingabe, aber eine Verschlechterung des zweiten Teils./rNÃ¼tzlich fÃ¼r digitale Eingaben und Gamepads. |
-| TT_deadzone | Die Tote Zone filtert ungewollte Eingaben im ersten Teil./rNÃ¼tzlich fÃ¼r Analoge Eingaben. |
+| TT_slowmotion | Zeitlupe. Jedes weitere Drücken verringert die Geschwindigkeit |
+| TT_fastforward | Schneller Vorlauf. Jedes weitere Drücken erhöht die Geschwindigkeit |
+| TT_savereplay | Wiederholung speichern. Über die Schaltflächen "Schnittbeginn" und "Schnittende" kann der Bereich eingeschränkt werden |
+| TT_browser | D = Dedizierter Server/rP = Passwortgeschützt/rSpieler = Fahrer/rKat = Kategorie/rH = Hardcore-Modus. A: keine Fahrhilfen; C: Cockpit erzwingen; T: begrenzte Reifensätze; +: alles/rW = Wetter. Nichts: realistisch; S: sonnig; C: wolkig; R: regnerisch/rR = Bewertung |
+| TT_smooth | Glättet die Eingabe und fügt eine Verzögerung hinzu.Nützlich für digitale Eingänge und für Gamepads. |
+| TT_linearity | 100 bedeutet lineare und direkte Steuerung./rWeniger bedeutet einen genaueren ersten Teil der Eingabe, aber eine Verschlechterung des zweiten Teils./rNützlich für digitale Eingaben und Gamepads. |
+| TT_deadzone | Die Tote Zone filtert ungewollte Eingaben im ersten Teil./rNützlich für Analoge Eingaben. |
 | nickname | Spielername: |
 | uk_units | UK |
 | nickname_title | Spielername |
-| cc_wrongnickname | UngÃ¼ltiger Spielername |
+| cc_wrongnickname | Ungültiger Spielername |
 | reverse_ff | Invertieren |
 | guid | GUID: |
 | trainer | Trainer |
 | enable_trainer | Aktivieren |
-| add_trainer | HinzufÃ¼gen |
+| add_trainer | Hinzufügen |
 | save_trainer | Speichern |
 | remove_trainer | Entfernen |
 | face_tracking | Gesichts-Tracking |
 | cc_notwhitelisted | Du bist nicht auf der Whitelist |
-| trainer_overwrite | Trainer Ã¼berschreiben? |
+| trainer_overwrite | Trainer überschreiben? |
 | cc_blacklisted | Du bist auf der Blacklist |
 | CC_PollInProgress | Eine Abstimmung ist bereits im Gange |
 | CC_PollWait | Warte bis du eine neue Abstimmung starten kannst |
 | CC_PollsDisabled | Abstimmungen sind deaktiviert |
-| oil_garage | Ã–l: |
+| oil_garage | Öl: |
 | CC_MaxPingWarning | Max Ping Warnung |
 | helmet | Helm: |
 | helmet_paint | Design: |
@@ -436,10 +436,10 @@
 | track_copyfrom | Strecke |
 | setup_copyfrom | Setup |
 | preload_gearbox | Vorspannung (preload) |
-| shiftuppreload | Vorspannung hÃ¶her |
+| shiftuppreload | Vorspannung höher |
 | shiftdownpreload | Vorspannung runter |
 | trainer_save | Trainer speichern |
-| trainer_add | Trainer hinzufÃ¼gen |
+| trainer_add | Trainer hinzufügen |
 | front_leverage | Bremszylinder vorne: |
 | front_disc | Bremsscheibe vorne: |
 | rear_mastercylinder | Bremszylinder hinten: |
@@ -448,7 +448,7 @@
 | ReplayMoveLeft | Links |
 | ReplayMoveRight | Rechts |
 | ReplayMoveForward | Vor |
-| ReplayMoveBackward | ZurÃ¼ck |
+| ReplayMoveBackward | Zurück |
 | ReplayMoveUp | Hoch |
 | ReplayMoveDown | Runter |
 | ReplayRotLeft | Drehung links |
@@ -478,14 +478,14 @@
 | bikeinfo_title | Info |
 | gain | Gain: |
 | Displacement_info | Hubraum: |
-| gears_info | GÃ¤nge: |
+| gears_info | Gänge: |
 | engine_info | Motor: |
 | maxpower_info | Leistung: |
 | weight_info | Gewicht: |
-| select_gate | Gatter wÃ¤hlen |
+| select_gate | Gatter wählen |
 | gateselection_tittle | Gatter Auswahl |
 | race2_length | Rennen 2 Dauer: |
-| sightinglap_info | AufwÃ¤rmrunde: |
+| sightinglap_info | Aufwärmrunde: |
 | prequalify_length | Vorqualifikation Dauer: |
 | race1_length | Rennen 1 Dauer: |
 | help_track | Hilfe: |
@@ -501,12 +501,12 @@
 | ideal_time | Ideale Zeit |
 | best_time | Beste Zeit |
 | bike_font | Schriftart: |
-| dab | FuÃŸ absetzen |
+| dab | Fuß absetzen |
 | cc_autocamset | Auto |
 | cc_orbitcam | Orbit |
 | cc_freecam | Free |
 | cc_freeroamcam | Free-Roam |
-| autoriderdab | Automatisches FuÃŸ absetzen |
+| autoriderdab | Automatisches Fuß absetzen |
 | GG_photo | Linke Maustaste: rotieren/rRechte Maustaste: schwenken/rL+R Maustasten: nah / fern/rLeertaste: UI ein-/ausblenden |
 | GG_calibrationinfo | Bewege alle Analog Achsen deines Controllers zum Maximum./rLasse sie los um in neutraler Position zu sein und klicke Ok. |
 | joystick | Joystick |
@@ -516,7 +516,7 @@
 | min_calibration | Min |
 | max_calibration | Max |
 | lean_help | Neigungshilfe |
-| reset_track | Strecke zurÃ¼cksetzen |
+| reset_track | Strecke zurücksetzen |
 | disable_collisions | Kollisionen deaktivieren |
 | collisions | Kollisionen |
 | collisions_disabled | Kollisionen deaktiviert: |
@@ -534,11 +534,11 @@
 | server_info | Server Info |
 | system | System |
 | vr_reset | VR Reset |
-| tip_1 | Halte die "ZurÃ¼cksetzen" Taste fÃ¼r 3 Sekunden gedrÃ¼ckt um zurÃ¼ck auf die Strecke zu kommen |
-| tip_2 | Halte die "Streckenmarker" Taste fÃ¼r eine Sekunde gedrÃ¼ckt um diesen zu setzen, drÃ¼cke die Taste um zum Marker zu gehen |
-| tip_3 | Umschalt Links + V de-/aktiviert die Versatz Einstellungen fÃ¼r die Third-Person-Sicht. Benutze die Pfeiltasten L/R um die Kamera zu bewegen. |
+| tip_1 | Halte die "Zurücksetzen" Taste für 3 Sekunden gedrückt um zurück auf die Strecke zu kommen |
+| tip_2 | Halte die "Streckenmarker" Taste für eine Sekunde gedrückt um diesen zu setzen, drücke die Taste um zum Marker zu gehen |
+| tip_3 | Umschalt Links + V de-/aktiviert die Versatz Einstellungen für die Third-Person-Sicht. Benutze die Pfeiltasten L/R um die Kamera zu bewegen. |
 | tip_4 | Die Tasten 1 bis 0 sind an die Autochat Nachrichten gebunden |
-| tip_5 | Die Taste F5 de-/aktiviert den Chatverlauf wÃ¤hrend du auf der Strecke bist |
+| tip_5 | Die Taste F5 de-/aktiviert den Chatverlauf während du auf der Strecke bist |
 | boots | Stiefel: |
 | goggles_paint | Brille: |
 | open_practice | Offenes Training |
@@ -568,23 +568,23 @@
 | cc_bikemismatch | Bike Mismatch |
 | cc_missingbike | Missing Bike |
 | data_mismatch | Data Mismatch |
-| GG_reset | Halte die "ZurÃ¼cksetzen" Taste fÃ¼r3 Sekunden gedrÃ¼ckt, um zurÃ¼ckzur Strecke zu kommen |
+| GG_reset | Halte die "Zurücksetzen" Taste für3 Sekunden gedrückt, um zurückzur Strecke zu kommen |
 | CC_RunOver | Lauf vorbei |
 | run_time | Lauf Zeit |
 | ideal_run_time | Ideale Lauf Zeit: |
 | TT_forkbump | Beeinflusst, wie schnell die Gabel einfedert. Mehr Klicks = sanfter (schneller) |
 | TT_forkrebound | Beeinflusst, wie schnell die Gabel ausfedert. Mehr Klicks = sanfter (schneller) |
-| TT_preload | ErhÃ¶hung der Vorspannung zur Versteifung der AufhÃ¤ngung,um den Durchhang (sag) zu verringern |
+| TT_preload | Erhöhung der Vorspannung zur Versteifung der Aufhängung,um den Durchhang (sag) zu verringern |
 | TT_shockbump | Beeinflusst, wie schnell die Federung einfedert. Mehr Klicks = sanfter (schneller) |
 | TT_shockrebound | Beeinflusst, wie schnell die Federung ausfedert. Mehr Klicks = sanfter (schneller) |
 | TT_shockfastbump | Beeinflusst, wie schnell die Federung bei harten Landungen einfedert. Mehr Umdrehungen = weicher (schneller) |
-| TT_forkoil | Eine Verringerung des GabelÃ¶lgehalts erhÃ¶ht die Federsteifigkeit im letzten Teil des Gabelwegs |
+| TT_forkoil | Eine Verringerung des Gabelölgehalts erhöht die Federsteifigkeit im letzten Teil des Gabelwegs |
 | missing_track | Missing Track |
-| CC_runs | LÃ¤ufe |
+| CC_runs | Läufe |
 | CC_races | Rennen |
-| practice_max_runs | Training Max LÃ¤ufe: |
+| practice_max_runs | Training Max Läufe: |
 | straight_rhythm_testing_title | Straight Rhythm Testing |
-| CC_LaneCrossing | Linie Ã¼berschritten |
+| CC_LaneCrossing | Linie überschritten |
 | vs | vs. |
 | CC_Round | Runde |
 | CC_QuarterFinals | Viertelfinale |
@@ -593,24 +593,24 @@
 | CC_Run | Lauf |
 | run_stand | Lauf |
 | straight_rhythm | Straight Rhythm |
-| CC_ResetTrack | Strecke zurÃ¼cksetzen |
-| CC_PollSpectators | Zuschauer kÃ¶nnen so eine Abstimmung nicht starten |
-| CC_PollRaces | Abstimmung wÃ¤hrend Rennen deaktiviert |
+| CC_ResetTrack | Strecke zurücksetzen |
+| CC_PollSpectators | Zuschauer können so eine Abstimmung nicht starten |
+| CC_PollRaces | Abstimmung während Rennen deaktiviert |
 | rumble | Vibration |
 | lock_view | An Motorrad fixieren |
 | local | Lokal |
-| TT_ridertracking | VerknÃ¼pft das Lehnen des Fahrers zur Position der Sichtverfolgung (VR, TrackIR)/rAchtung! Das manuelle Lehnen wird dadurch deaktiviert. |
+| TT_ridertracking | Verknüpft das Lehnen des Fahrers zur Position der Sichtverfolgung (VR, TrackIR)/rAchtung! Das manuelle Lehnen wird dadurch deaktiviert. |
 | holeshot | Holeshot: |
 | instant_replay | Sofortwiederholung |
 | cc_racelength_percentage | Prozentual |
 | cc_racelength_time | Zeit |
 | cc_racelength_laps | Runden |
-| rodlength_garage | Rod-LÃ¤nge: |
-| fork_height | Gabel-HÃ¶he: |
+| rodlength_garage | Rod-Länge: |
+| fork_height | Gabel-Höhe: |
 | protection_paint | Design: |
 | qualify_practice | Qualifying Training |
 | qualifypractice_length | Qualifying Training Dauer: |
-| TT_forkoffset | GabelbrÃ¼ckenversatz/rHÃ¶her macht das Motorrad agiler, niedriger stabiler. |
+| TT_forkoffset | Gabelbrückenversatz/rHöher macht das Motorrad agiler, niedriger stabiler. |
 | jump_tosession | Sprung zur Session: |
 | jump_toround | Sprung zur Runde: |
 | jump_torun | Sprung zum Lauf: |
@@ -635,7 +635,7 @@
 | CC_SyncCachingRider | Fahrer |
 | CC_SyncCachingBoots | Stiefel |
 | CC_SyncCachingHelmet | Helm |
-| CC_SyncCachingStand | StÃ¤nder |
+| CC_SyncCachingStand | Ständer |
 | CC_SyncTrackGraphics | Streckengrafiken |
 | CC_SyncMisc | Anderes |
 | CC_SyncBikeGraphics | Motorradgrafiken |
@@ -647,10 +647,10 @@
 | CC_SyncData | Daten |
 | CC_SyncCommunication | Kommunikation |
 | TT_guidcopy | GUID in Zwischenablage kopieren |
-| pit_environment_sounds | UmgebungsgerÃ¤usche |
+| pit_environment_sounds | Umgebungsgeräusche |
 | filter_name | Filter Name: |
 | cc_disabled | Deaktiviert |
-| cc_full | VollstÃ¤ndig |
+| cc_full | Vollständig |
 | cc_fblean | V/H Neigung |
 | cc_lrlean | L/R Neigung |
 | cc_trackmismatch | Track Mismatch |
@@ -663,24 +663,24 @@
 | track_screens | Strecken-Bildschirme |
 | externalview | Externe Ansicht |
 | dynamic_view | Dynamisch |
-| remotebikes_volume | Andere MotorrÃ¤der: |
+| remotebikes_volume | Andere Motorräder: |
 | follow_bike | Motorrad verfolgen |
 | terrain_detail | Terrain Detail: |
 | distance_extview | Distanz: |
 | lateral_offset | Lateraler Versatz: |
 | brakes_volume | Bremsen: |
-| height | HÃ¶he: |
+| height | Höhe: |
 | cc_tyresmismatch | Tyres Mismatch |
 | cc_ridermismatch | Rider Mismatch |
 | corrupted_paints | Corrupted Paints |
 | error_sign | ! |
-| reset_delay | Reset-VerzÃ¶gerung: |
+| reset_delay | Reset-Verzögerung: |
 | deformation_terrain | Deformation: |
 | cc_none | Keine |
 | cc_fixed | Fixiert |
 | cc_distance | Distanz |
 | cc_crashspeed | Unfallgeschwindigkeit |
-| ui_back | UI ZurÃ¼ck |
+| ui_back | UI Zurück |
 | ui_hide | UI ein-/ausblenden |
 | ui_enter | UI Enter |
 | kick | Kick |
