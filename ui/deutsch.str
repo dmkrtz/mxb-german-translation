@@ -89,7 +89,7 @@ Zur Strecke
 TT_TESTING
 Starte eine Trainingssession
 TT_EXIT
-Schließe MX Bikes
+MX Bikes beenden
 results_tab
 Ergebnisse
 cc_fullscreen
@@ -269,7 +269,7 @@ Multiplayer
 hardcoretext
 Hardcore-Modus
 settings_race
-Settings
+Renneinstellungen
 ui_volume
 UI:
 track_length
@@ -279,7 +279,7 @@ Höhenunterschied:
 tyres
 Reifen
 advanced_input
-Erweitert
+Erweiterte Eingabe
 Rider
 Fahrer:
 camera
@@ -313,7 +313,7 @@ T2
 split3
 T3
 speedlap
-Geschwindigkeit
+Schnellste Runde
 name_stand
 Name
 bike_stand
@@ -377,7 +377,7 @@ Profil entfernen?
 track_bestlaps
 Strecke
 delete_replay
-Wiederholung entfernen?
+Wiederholung löschen?
 cc_wrongkey
 Ungültiger Lizenzschlüssel
 garage_title
