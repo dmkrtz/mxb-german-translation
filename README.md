@@ -5,6 +5,8 @@ Dies ist eine **deutsche Sprachdatei** für das Spiel [MX Bikes](https://www.mx-
 🗓 **Letztes Update:** `07.02.2022`  
 🎮 **Spielversion:** `Beta 18f`
 
+![Ingame Screenshot of the translation](https://i.imgur.com/DQE1VTq.jpeg)
+
 ---
 
 ## 🔧 Installation
